@@ -9,7 +9,9 @@
 // We provide a C interface in addition to the C++ interface
 // already provided.
 
+#ifdef __cplusplus
 extern "C" {
+#endif /* __cplusplus */
     
     using namespace SatLib;
 
@@ -76,8 +78,9 @@ extern "C" {
     void SatLibResetErrors();
     const char* SatLibGetLastErrorMessage();
     
-
+#ifdef __cplusplus
 } /* end extern linkage */
+#endif /* __cplusplus */
 
 #endif /* __SATLIB_INCLUDE_HPP */
 
