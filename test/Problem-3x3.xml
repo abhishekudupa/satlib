@@ -1,0 +1,11 @@
+<!DOCTYPE ksudoku>
+<ksudoku>
+ <game had-help="0">
+  <puzzle>
+   <graph order="9" type="sudoku" specific-type="Plain"/>
+   <values>_____db_cdc__g_f__eb_h_____b_i__h_g__________j___ei__h___d_f___h_f___g_b_d__h___i</values>
+   <solution>figejdbhcdchigbfjeebjhfcdigbeifchjgdghcbdjiefjfdgeicbhigedbfhcjhjfciegdbcdbjhgefi</solution>
+  </puzzle>
+  <history/>
+ </game>
+</ksudoku>

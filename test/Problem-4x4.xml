@@ -1,0 +1,11 @@
+<!DOCTYPE ksudoku>
+<ksudoku>
+ <game had-help="0">
+  <puzzle>
+   <graph order="16" type="sudoku" specific-type="Plain"/>
+   <values>__dplk____bo_ij_ofe_c_____p____b_m_gfo______n_pcbi____eh___n____ebofh_l___j_c_q_d__l__og__nf__h__ki____fqdlcg___p_g_d_k___m__b_ijdh__l__n_q___f_______f_p_hmdjoq__qb_e__j___i___nl___j___o_i___g___d_h__ieoq_f_jq__e_f___b_hm_ip_hbj__c_m_fp_l_n__mkpgqi_n_j__d_</values>
+   <solution>hndplkmqcgboeijfofeqcnijhmpdlgkbkmjgfobdeqilnhpcbilcgpehfjknoqmdebofhilngpjkcdqmdqclemogbinfjphkmkihjbpfqdlcgneopjgndqkcohmefblijdhoilgkncqbpmfegekincfbplhmdjoqcpqbmehojfdgiknlnlfmqjdpkoeihcbglgpdbhnmieoqkfcjqcnekfjldbghmoipihbjodcemkfpqlgnfomkpgqilncjbedh</solution>
+  </puzzle>
+  <history/>
+ </game>
+</ksudoku>
