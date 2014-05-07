@@ -16,7 +16,7 @@ extern "C" {
     using namespace SatLib;
 
     // Error messages
-    const u32 SATLIB_C_MAX_ERROR_LEN = 1024;
+    const u32 SATLIB_C_MAX_ERROR_LEN = 8192;
     char SatLibCLastErrorMsg[SATLIB_C_MAX_ERROR_LEN];
     u32 SatLibCLastErrorCode = 0;
 
